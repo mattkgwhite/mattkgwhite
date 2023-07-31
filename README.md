@@ -6,7 +6,7 @@
 
 ## What am I doing?
 
-- 🎉 exploring the possibilities that is k8s and the workloads it can be used for.
+- 🎉 exploring the possibilities that is Kubernetes(k8s) and the workloads it can be used for.
 - 🔭 I'm currently working on expanding my knowledge in SRE related skills.
 - 🌱 I'm currently learning Kubernetes, Terraform, Javascript and other modern related architecture skills.
 
